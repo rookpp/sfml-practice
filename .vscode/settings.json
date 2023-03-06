@@ -1,0 +1,9 @@
+{
+    "C_Cpp.legacyCompilerArgsBehavior": false,
+    "C_Cpp.default.compilerPath": "C:/mingw64/bin/g++.exe",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**"
+    ],
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    
+}
